@@ -1,3 +1,53 @@
+@mixin border-radius($radius...) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+          border-radius: $radius;
+}
+
+@mixin transition($transition...) {
+  -webkit-transition: $transition;
+     -moz-transition: $transition;
+       -o-transition: $transition;
+          transition: $transition;
+}
+
+
+nav {
+
+  ul {
+    padding: 0;
+    margin: 0;
+    white-space: nowrap;
+  }
+
+  li { display: inline-block; }
+}
+
+.main-nav {
+  margin-top: 52px;
+
+  li {
+    margin-right: 10px;
+
+    a {
+      @include border-radius(5px);
+      font-weight: 900;
+      font-size: 14px;
+      padding: 0.5em 1em;
+      text-shadow: none;
+      text-transform: uppercase;
+      @include transition(all .25s);
+
+      &:hover {
+        background-color: #252525;
+
+      }
+    }
+
+  }
+}
+
+
 $content-width: 800px;
 $main: #19CCAA;
 $font-style: 'Open Sans', sans-serif;
@@ -7,7 +57,7 @@ $link-hover-color: $main;
 $heading-font: 'Muli', sans-serif;
 $heading-font-color: #425469;
 $light: #E7EDF4;
-$header:  #1D1425;
+$header:  #AAAAAA;
 
 *,
 *::before,
@@ -16,3 +66,5 @@ $header:  #1D1425;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+
+h1, h2, h3, h4, h5, h6 { margin: 0; }
