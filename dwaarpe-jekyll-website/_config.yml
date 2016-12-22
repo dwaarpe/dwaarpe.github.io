@@ -1,0 +1,21 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: BEAUTY SERVICES AT HOME 
+email: dwaarpe@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Get beauty services done at home in exchange for MONEY.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: http://nidhidwaarpe.com/
+instagram_username: dwaarpe
+facebook_username: dwaarpe
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+markdown: kramdown
