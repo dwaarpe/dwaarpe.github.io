@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Our mission
+permalink: /our-mission/
 ---
 
 We are a social entrepreneurship startup.
