@@ -21,7 +21,7 @@ h1 {
 		a,
 		a:visited {
 				text-decoration: none;
-				color: $main;
+				color: $color2;
 		}
 }
 h2 {
@@ -34,7 +34,7 @@ a:visited {
 		font-weight: bold;
 }
 a:hover {
-		color: $link-hover-color;
+		color: $color5;
 		text-decoration: underline;
 }
 header {
@@ -66,7 +66,7 @@ aside {
 		background: #fff;
 		width: 100%;
 		z-index: 2;
-		border-bottom: 1px solid lighten($light, 30%);
+		border-bottom: 1px solid lighten($color4, 30%);
 		box-shadow: 0px 1px 1px RGBA(4, 25, 54, .1);
 		nav {
 				float: left;
@@ -89,9 +89,9 @@ aside {
 										box-shadow: 0;
 										&:hover,
 										&:active {
-												background: $header;
+												background: $color1;
 												text-decoration: none;
-												color: $main;
+												color: $color2;
 										}
 								}
 						}
@@ -106,4 +106,27 @@ aside {
 footer {
 		text-align: center;
 		padding: 40px;
+}
+.main-nav {
+  margin-top: 52px;
+
+  li {
+    margin-right: 10px;
+
+    a {
+      @include border-radius(5px);
+      font-weight: 900;
+      font-size: 14px;
+      padding: 0.5em 1em;
+      text-shadow: none;
+      text-transform: uppercase;
+      @include transition(all .25s);
+
+      &:hover {
+					background-color: $color3;
+
+      }
+    }
+
+  }
 }
