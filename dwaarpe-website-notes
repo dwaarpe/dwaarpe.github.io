@@ -17,23 +17,17 @@
 - Later we should also consider straight up sales of the materials
 
 - Todo:
-        * correct color scheme
-				* add all necessary pages
-				     - contact info
-						 - profiles page
-						 - rates
-						 - elderly care
-						 - tuitions
-			  * link to home page on top left of every page
-				* instagram link at bottom
-				* fix home page
-				     - slideshow of pictures
-						 - recent updates???
-
+        * Populate services pages with rates.
+				* Fix: Nav bar at top disappears when window is resized.
+				* It's ugly.
+				  - Can we do full-page photographs wih floating text? Search
+            for examples of this done well. How do they manage to keep
+            text legible?
+					- Instead or in addition: slideshow of pictures
+				* Fix: images are too wide, and different widths.
+				* Fix: Weird spacing on left column but not on right.
+				* Instagram link at bottom
 				* add a plugin for payment and appointments?????
-
-				
-
 
 - Inspiration:
 http://kutoa.com/
