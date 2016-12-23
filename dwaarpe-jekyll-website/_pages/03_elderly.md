@@ -6,4 +6,4 @@ permalink: /elderly/
 
 A gift for your mother.
 
-![minty-product](/assets/mint.jpg){:class="img-responsive"}
+![mother](/assets/ma.jpg){:class="img-responsive"}

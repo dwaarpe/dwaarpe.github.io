@@ -6,4 +6,4 @@ permalink: /daughter/
 
 Young girls have special needs.
 
-![minty-product](/assets/mint.jpg){:class="img-responsive"}
+![daughter-waxing](/assets/anya-waxing-landscape.jpg){:class="img-responsive"}
