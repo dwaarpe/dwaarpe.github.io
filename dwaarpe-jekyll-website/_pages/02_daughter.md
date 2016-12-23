@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Ayurveda products
-permalink: /ayurveda/
+title: For your daughter
+permalink: /daughter/
 ---
 
-Buy products, give us MONEY
+Young girls have special needs.
 
 ![minty-product](/assets/mint.jpg){:class="img-responsive"}
