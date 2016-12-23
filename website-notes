@@ -19,6 +19,7 @@
 - Todo:
         * Populate services pages with rates.
 				* Fix: Nav bar at top disappears when window is resized.
+				* Fix: Nav bar is too tall.
 				* It's ugly.
 				  - Can we do full-page photographs wih floating text? Search
             for examples of this done well. How do they manage to keep
@@ -26,6 +27,11 @@
 					- Instead or in addition: slideshow of pictures
 				* Fix: images are too wide, and different widths.
 				* Fix: Weird spacing on left column but not on right.
+				* Make dwaarpe github account, push website.
+				* Can dwaarpe.com transparently point to dwaarpe.github.io? If
+          so, deployment is easy and hosting is free.
+			  * Write a document that allows Anya, Manu or Nidhi to push
+          changes and deploy.
 				* Instagram link at bottom
 				* add a plugin for payment and appointments?????
 
