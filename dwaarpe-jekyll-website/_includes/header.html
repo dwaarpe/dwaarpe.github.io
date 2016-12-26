@@ -1,24 +1,4 @@
-<header>
-  <div class="grid">
-    <div class="unit one-third center-on-mobiles">
-      <h1>
-        <a href="/">
-
-          <img src="/assets/logo-new-color-scheme.png" width="249" height="115" alt="Jekyll Logo">
-        </a>
-      </h1>
-    </div>
-    <nav class="main-nav unit two-thirds hide-on-mobiles">
-			<ul>
-				<li> <a href="/">Home</a>
-				</li>
-				{% for page in site.pages %} {% if page.title %}
-				<li><a href="{{ page.url | prepend: site.baseurl }}">{{
-						page.title }}</a></li>
-				{% endif %} {% endfor %}
-			</ul>			
-
-    </nav>
-  </div>
+<header class="site-banner">
+<h1>Dwaarpe</h1>
 </header>
 
