@@ -1,7 +1,8 @@
 - Todo:
         * Populate services pages with rates.
-				* Fix how it looks on mobile.
 				* Add nav bar back in.
+				* Make it possible to use markdown instead of raw HTML for
+          full-width images with floating text.
 				* Communicate that our Ayurveda products are the main USP but
           still optional.
 			  * Write a document that allows Anya, Manu or Nidhi to push
