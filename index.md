@@ -1,6 +1,5 @@
 ---
 layout: default
-cover_image: /assets/IMG_1493.JPG
 ---
 
 <header
