@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Our services
-permalink: /for-you/
+title: Services
+permalink: /services/
 ---
 
 Our range of beauty services, with love and warmth.

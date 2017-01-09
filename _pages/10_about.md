@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our mission
+title: Mission
 permalink: /our-mission/
 ---
 

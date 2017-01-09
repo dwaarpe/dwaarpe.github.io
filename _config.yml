@@ -6,11 +6,13 @@
 title: BEAUTY SERVICES AT HOME 
 email: dwaarpe@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Get beauty services done at home in exchange for MONEY.
+  Get beauty services done at home.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://nidhidwaarpe.com/
+url: http://www.dwaarpe.com/
 instagram_username: dwaarpe
 facebook_username: dwaarpe
+twitter_username: dwaarpe
+flickr_username: dwaarpe
 
 # Build settings
 sass:

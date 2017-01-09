@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ayurveda products
+title: Ayurveda
 permalink: /ayurveda/
 ---
 

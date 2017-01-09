@@ -1,6 +1,6 @@
 ---
 layout: page
-title: For your daughter
+title: Young 
 permalink: /daughter/
 ---
 

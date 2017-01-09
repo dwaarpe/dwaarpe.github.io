@@ -1,6 +1,6 @@
 ---
 layout: page
-title: For elderly women
+title: Elderly
 permalink: /elderly/
 ---
 

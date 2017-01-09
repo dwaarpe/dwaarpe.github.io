@@ -7,7 +7,7 @@ class="cover-banner"
 style="background-image: url(/assets/IMG_1493.JPG);">
 <h1> Beauty Services at your home </h1>
 
-<h2>We come to your home in Delhi, Noida, Gurgaon, Faridabad and
+<h2>We serve in Delhi, Noida, Gurgaon, Faridabad and
 Ghaziabad.</h2>
 
 </header>
@@ -17,8 +17,7 @@ class="cover-banner"
 style="background-image: url(/assets/color-scheme.jpg);">
 <h1>Handcrafted organic materials</h1>
 
-<h2>We make our own cosmetic products from scratch in small batches. No
-unpronounceable chemicals!</h2>
+<h2>We make our own cosmetics. No chemicals!</h2>
 
 </header>
 
