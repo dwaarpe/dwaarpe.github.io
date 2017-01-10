@@ -6,7 +6,7 @@ permalink: /contactUs/
 
 Call/WhatsApp - Anita at 9654123726
 email - dwaarpe@gmail.com
-<p><a href="https://www.twitter.com/dwaarpe">Twitter</a>
+<p><a href="https://www.twitter.com/dwaarpe">Twitter</a> 
 <a href="https://www.facebook.com/dwaarpe">Facebook</a>
 <a href="https://dwaarpe.wordpress.com">Blog</a>
 <a href="https://www.flickr.com/photos/dwaarpe">Flickr</a>

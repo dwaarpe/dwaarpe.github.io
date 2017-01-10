@@ -5,4 +5,4 @@ permalink: /daughter/
 ---
 
 Young girls have special needs.
-![daughter-waxing](/assets/dotter.jpg){:class="cover-banner"}
+![daughter-waxing](/assets/dotter.jpg){:class="cover-banner2"}

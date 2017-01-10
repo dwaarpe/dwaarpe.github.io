@@ -110,10 +110,19 @@ aside {
       }
    }
 }
-.cover-banner {
-   width: 100%;
+
+.cover-banner2 {
+   width: 90%;
    height: 200vh;
    max-height: 2000px;
+   margin: 25px auto;
+   padding: 12px;
+}
+
+.cover-banner {
+   width: 100%;
+   height: 120vh;
+   max-height: 1067px;
    margin: 25px auto;
    padding: 12px;
 
