@@ -27,38 +27,66 @@ div.desc {
     padding: 5px;
     text-align: center;
 }
+.responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+}
+
+@media only screen and (max-width: 700px){
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .responsive {
+        width: 100%;
+    }
+}
+
 .clearfix:after {
     content: "";
     display: table;
     clear: both;
 }
 </style>
+
+<div class="responsive">
 <div class="img">
   <a target="_blank" href="">
     <img src="/assets/IMG_1488.JPG" alt="Ubtan" width="300" height="200">
   </a>
   <div class="desc">Body Ubtan</div>
 </div>
+</div>
 
+<div class="responsive">
 <div class="img">
   <a target="_blank" href="">
     <img src="/assets/IMG_1489.JPG" alt="Ubtan" width="300" height="200">
   </a>
   <div class="desc">Body Ubtan</div>
 </div>
+</div>
 
+<div class="responsive">
 <div class="img">
   <a target="_blank" href="">
     <img src="/assets/IMG_1496.JPG" alt="Ubtan" width="300" height="200">
   </a>
   <div class="desc">Ubtan Ingredients</div>
 </div>
+</div>
 
+<div class="responsive">
 <div class="img">
   <a target="_blank" href="">
     <img src="/assets/IMG_1491.JPG" alt="Face Massage" width="300" height="200">
   </a>
   <div class="desc">Massage Cream</div>
+</div>
 </div>
 
 <div class="clearfix"></div>
