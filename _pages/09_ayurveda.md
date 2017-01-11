@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ayurveda
+tooltip: Nature's Bounty
 permalink: /ayurveda/
 ---
 

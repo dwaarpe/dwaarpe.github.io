@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Testimonials
+tooltip: What Others Say
 permalink: /testimonials/
 ---
 

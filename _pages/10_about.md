@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About 
+tooltip: Mission, Vision, Values
 permalink: /about/
 ---
 

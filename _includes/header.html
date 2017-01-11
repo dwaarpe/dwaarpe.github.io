@@ -2,8 +2,9 @@
   <div class="container">
     <nav>
       <ul>
+        <li><div class="tooltip"><a href="/">Home</a><span class="tooltiptext">Home</span></div></li>
         {% for page in site.pages %} {% if page.title %}
-        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        <li><div class="tooltip"><a href="{{ page.url | prepend: site.baseurl }}" >{{ page.title }}</a><span class="tooltiptext">{{page.tooltip}}</span></div></li>
         {% endif %} {% endfor %}
       </ul>
     </nav>

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Young 
+title: KidZone
+tooltip: For Young Children 
 permalink: /daughter/
 ---
 
