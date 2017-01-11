@@ -16,4 +16,4 @@ We have special packages for the elderly, for babies (massages), for brides-to-b
 Our servers have undergone scores of hours of training and are pleasant, friendly and competent.
 
 Our servers are women from poor or under-privileged backgrounds, trained by us to enable them to earn more and be financially independent.
-<p>Some <a href="/testimonies">Testimonials</a></p>
+<p>Some <a href="/testimonials/">Testimonials</a></p>

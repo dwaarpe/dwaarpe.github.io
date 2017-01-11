@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Beauty services at home - DwaarPe. Provided by a band of intrepid women beauticians working together, learning together and growing together.
+
 <header
 class="cover-banner"
 style="background-image: url(/assets/IMG_1493.JPG);">
