@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Old's Gold 
+title: Elder Care 
 tooltip: For Older Adults 
 permalink: /elderly/
 ---
