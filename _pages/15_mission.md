@@ -4,11 +4,15 @@ permalink: /mission/
 ---
 
 <p>
+Our Mission - Financial inclusion for the less privileged. 
+</p>
+<p>
+Our Vision - We started small, with just five girls, training them on beauty services. We aim to take that to ten trainees, then a hundred, and beyond.
+
+</p>
+<p>
+Our Strategy - Train and deploy.  
 We believe that just training someone is not enough. We aim to train people on various skills, and then help them earn a living using those skill.
-
-We started small, with just five girls, training them on beauty services. We aim to take that to ten trainees, then a hundred, and beyond.
-
-Our mission - Train and deploy.  
 </p>
 
 What do our service providers say?

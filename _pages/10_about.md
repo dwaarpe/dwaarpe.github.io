@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 We are a social entrepreneurship startup.
-<p>Our <a href="/mission/">Mission</a> - Train and Deploy</p>
+<p>Our <a href="/mission/">Mission</a> - Financial Inclusion for the less privileged</p>
 
 Dwaarpe provides Facials, Waxing, Manicure, Pedicure, Massage, Bleaching, Streaking, Threading, Hair Coloring at home.
 
