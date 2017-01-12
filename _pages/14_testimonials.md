@@ -30,7 +30,3 @@ without chemicals, thanx a lot dwarpe, simply loved it!!!!
 the Ayurvedic recipe are very good made with lots of love n care #excellent work 
 by Pushpa # greatwork #must try #luvayurveda 
 - <b>Shilpi Kapoor</b></p>
-<p>I find this an utterly satisfying experience. The joy of people learning and 
-serving (our servers), the satisfied reviews from the patrons, it is a wonderful 
-reward for a job well started 
-- <b>Manu Lauria</b></p>
