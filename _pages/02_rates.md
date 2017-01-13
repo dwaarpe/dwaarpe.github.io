@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Services
 tooltip: Rate Lists 
-permalink: /services/
+metaDesc: Rates for DwaarPe's at-home services in Noida, Gurgaon, Delhi, Ghaziabad, Faridabad; facials, waxing, massage, pedicure, manicure; including our Ayurvedic products-based services
+permalink: /Normal Services/
 ---
 
 Our range of beauty services, with love and warmth.
@@ -225,4 +225,3 @@ th {
    </tr>
 </table>
 <div class="clearfix"></div>
-<meta description="Rates for DwaarPe's at-home services in Noida, Gurgaon, Delhi, Ghaziabad, Faridabad; facials, waxing, massage, pedicure, manicure; including our Ayurvedic products-based services" />

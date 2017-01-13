@@ -64,7 +64,6 @@ time {
 }
 
 /* Aside */
-
 aside {
    position: fixed;
    top: 0;
@@ -85,7 +84,7 @@ aside {
          li {
             float: left;
             position: relative;
-            a {
+            a, button {
                text-decoration: none;
                display: block;
                padding: 15px;
@@ -97,7 +96,7 @@ aside {
                &:focus,
                &:active {
                   background: $header;
-               outline: none;
+                  outline: none;
                   text-decoration: none;
                   color: $main;
                }
@@ -171,11 +170,12 @@ footer {
     color: #fff;
     text-align: center;
     padding: 2px 0;
-    border-radius: 2px;
+    border-radius: 4px;
  
-    /* Position the tooltip text - see examples below! */
     position: absolute;
     z-index: 1;
+    top: 60px;
+    left: 105%;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
@@ -226,3 +226,46 @@ div.desc {
     display: table;
     clear: both;
 }
+/* Dropdown Button */
+.dropbtn {
+    color: $color2;
+    background-color: white;
+    display: block;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 175px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 8px 8px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}

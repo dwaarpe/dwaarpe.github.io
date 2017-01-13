@@ -2,11 +2,11 @@
 layout: page
 title: Ayurveda
 tooltip: Nature's Bounty
+metaDesc: Dwaarpe's at-home Ayurveda products-based services in Noida, Delhi, Gurgaon, Ghaziababd and Faridabad - facials, ubtans, hair care - the all-natural ingredients ensure safety and quality
 permalink: /ayurveda/
 ---
 
 Our home-made mixtures, made from fresh and natural ingredients. No chemical are added, and no preservatives are used. No SLS, Parabens, EDTA or other known toxic chemicals are present in these ingredients.
-<meta description="Dwaarpe's at-home Ayurveda products-based services in Noida, Delhi, Gurgaon, Ghaziababd and Faridabad - facials, ubtans, hair care - the all-natural ingredients ensure safety and quality" />
 <style>
 div.img {
     margin: 5px;
