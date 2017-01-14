@@ -2,7 +2,7 @@
   <div class="container">
     <nav>
       <ul>
-        <li><a href="/"><img border="0" alt="bhen" src="/assets/home.png" width="20" height="20"></a></li>
+        <li><a href="/"><img border="0" alt="Home" src="/assets/home.png" width="20" height="20"></a></li>
         {% for page in site.pages %} 
         {% if page.title %}
         {% if page.tooltip %}
@@ -16,14 +16,14 @@
            {% if page.dropdowns %}
               <li>
               <div class="dropdown">
-                <a onclick="dropIt()" class="dropbtn">
-                   {{ page.title }}
-                </a>
-                <div id="myDropdown" class="dropdown-content">
-                  {% for dropId in page.dropdowns %} 
-                     <a href="/{{dropId}}/">{{ dropId }}</a>
-                  {% endfor %}
-                </div>
+                 <a onclick="dropIt()" class="dropbtn">
+                    {{ page.title }}
+                 </a>
+                 <div id="myDropdown" class="dropdown-content">
+                    {% for dropId in page.dropdowns %} 
+                       <a href="/{{dropId}}/">{{ dropId }}</a>
+                    {% endfor %}
+                 </div>
               </div>
               </li>
            {% else %}
@@ -39,5 +39,5 @@
 </aside>
 
 <header class="site-banner">
-  <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+  <h4>{{ site.title }}</h4>
 </header>
