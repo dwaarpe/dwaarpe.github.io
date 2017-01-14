@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact 
-tooltip: Contact/Message Us
 metaDesc: Home Salon services for women in the NCR region (Delhi, Noida, Ghaziabad, Gurgaon, Faridabad) by trained women from less privileged backgrounds. Message us for questions, rates, appointments and feedback.
 permalink: /contactUs/
 ---
