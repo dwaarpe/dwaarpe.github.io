@@ -255,6 +255,7 @@ div.desc {
     position: absolute;
     background-color: $color4;
     min-width: 175px;
+    z-index: 4;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
