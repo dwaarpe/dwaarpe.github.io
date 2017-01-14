@@ -14,25 +14,11 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
    <script>
-   /* When the user clicks on the button, toggle between hiding and 
+      /* When the user clicks on the button, toggle between hiding and 
       showing the dropdown content */
-   function dropIt() {
-      document.getElementById("myDropdown").classList.toggle("show");
-   }  
-
-   // Close the dropdown menu if the user clicks outside of it
-   window.onclick = function(event) {
-      if (!event.target.matches('.dropbtn')) {
-         var dropdowns = document.getElementsByClassName("dropdown-content");
-         var i;
-         for (i = 0; i < dropdowns.length; i++) {
-            var openDropdown = dropdowns[i];
-            if (openDropdown.classList.contains('show')) {
-               openDropdown.classList.remove('show');
-            }   
-         }
-      } 
-   } 
+      function dropIt(id) {
+         document.getElementById(id).classList.toggle("show");
+      }  
    </script>
   {% include analytics.html %}	
 </head>

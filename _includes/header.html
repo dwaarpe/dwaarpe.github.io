@@ -16,7 +16,7 @@
            {% if page.dropdowns %}
               <li>
               <div class="dropdown">
-                 <a onclick="dropIt()" class="dropbtn">
+                 <a onclick="dropIt({{dropId}})" class="dropbtn">
                     {{ page.title }}
                  </a>
                  <div id="myDropdown" class="dropdown-content">
