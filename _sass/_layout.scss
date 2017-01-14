@@ -88,8 +88,8 @@ aside {
                text-decoration: none;
                display: block;
                padding: 15px;
-               font-family: 'Muli', sans-serif;
-               line-height: 15px;
+               #font-family: 'Muli', sans-serif;
+               #line-height: 15px;
                margin-bottom: 1px;
                box-shadow: 0;
                &:hover,
@@ -123,8 +123,8 @@ aside {
    width: 100%;
    height: 120vh;
    max-height: 1067px;
-   margin: 25px auto;
-   padding: 12px;
+   margin: 5px auto;
+   padding: 2px;
 
    background-repeat: no-repeat;
    background-attachment: scroll;
@@ -251,7 +251,7 @@ div.desc {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: $color4;
     min-width: 175px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }

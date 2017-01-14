@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /mission/
+permalink: /Mission/
 ---
 
 <p>

@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Testimonials
 tooltip: What Others Say
-permalink: /testimonials/
+permalink: /Testimonials/
 ---
 
 <p><b>Some encouraging words from our wonderfully supportive mentors and patrons </b></p>
