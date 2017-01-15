@@ -8,42 +8,42 @@ Our girls/women come from a variety of backgrounds. One thing binds them - their
 
 <div class="responsive"> <div class="img">
   <a target="_blank" href="">
-    <img src="/assets/mamta.jpg" alt="Mamta" width="300" height="300"></a>
+    <img src="/assets/mamta1.jpg" alt="Mamta" width="300" height="300"></a>
   <div class="desc">Mamta</div>
 </div> </div>
 <div class="responsive"> <div class="img">
   <a target="_blank" href="">
-    <img src="/assets/anita.jpg" alt="Anita" width="300" height="300"></a>
+    <img src="/assets/anita1.jpg" alt="Anita" width="300" height="300"></a>
   <div class="desc">Anita</div>
 </div> </div>
 <div class="responsive"> <div class="img">
   <a target="_blank" href="">
-    <img src="/assets/divya.jpg" alt="Divya" width="300" height="300"></a>
+    <img src="/assets/divya1.jpg" alt="Divya" width="300" height="300"></a>
   <div class="desc">Divya</div>
 </div> </div>
 <div class="responsive"> <div class="img">
   <a target="_blank" href="">
-    <img src="/assets/serofina.jpg" alt="Serofina" width="300" height="300"></a>
+    <img src="/assets/serofina1.jpg" alt="Serofina" width="300" height="300"></a>
   <div class="desc">Serofina</div>
 </div> </div>
 <div class="responsive"> <div class="img">
   <a target="_blank" href="">
-    <img src="/assets/pushpa.jpg" alt="Pushpa" width="300" height="300"></a>
+    <img src="/assets/pushpa1.jpg" alt="Pushpa" width="300" height="300"></a>
   <div class="desc">Pushpa</div>
 </div> </div>
 <div class="responsive"> <div class="img">
   <a target="_blank" href="">
-    <img src="/assets/babli.jpg" alt="Babli" width="300" height="300"></a>
+    <img src="/assets/babli1.jpg" alt="Babli" width="300" height="300"></a>
   <div class="desc">Babli</div>
 </div> </div>
 <div class="responsive"> <div class="img">
   <a target="_blank" href="">
-    <img src="/assets/dolly.jpg" alt="Dolly" width="300" height="300"></a>
+    <img src="/assets/dolly1.jpg" alt="Dolly" width="300" height="300"></a>
   <div class="desc">Dolly</div>
 </div> </div>
 <div class="responsive"> <div class="img">
   <a target="_blank" href="">
-    <img src="/assets/sanjana.jpg" alt="Sanjana" width="300" height="300"></a>
+    <img src="/assets/sanjana1.jpg" alt="Sanjana" width="300" height="300"></a>
   <div class="desc">Sanjana</div>
 </div> </div>
 
