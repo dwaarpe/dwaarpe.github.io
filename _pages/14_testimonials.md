@@ -9,7 +9,7 @@ permalink: /Testimonials/
     Name<br> <input type="text" name="name"> <br>
     Email<br> <input type="text" name="email"><br>
     Write Us a Testimonial!<br> <textarea name="message" cols="40" rows="5"></textarea>
-    <input type="hidden" name="_next" value="/thanks/"><br>
+    <input type="hidden" name="_next" value="/Testimonials/"><br>
     <input type="submit" value="Send Message">
 </form>
 <p><b>Some encouraging words from our wonderfully supportive mentors and patrons </b></p>
