@@ -1,6 +1,7 @@
 ---
 layout: page
 metaDesc: Dwaarpe's at-home Ayurveda products-based services in Noida, Delhi, Gurgaon, Ghaziababd and Faridabad - facials, ubtans, hair care - the all-natural ingredients ensure safety and quality
+allthekeywords: Ayurvedic products - salon at home service. NCR region. All-natural products. Expert formulations. 
 permalink: /Ayurveda/
 ---
 

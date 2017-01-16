@@ -3,7 +3,15 @@ layout: page
 tooltip: What Others Say
 permalink: /Testimonials/
 ---
-
+<p>Write something to encourage our service providers to share on this page</p>
+<form action="https://formspree.io/mklauria@gmail.com"
+      method="POST">
+    Name<br> <input type="text" name="name"> <br>
+    Email<br> <input type="text" name="email"><br>
+    Write Us a Testimonial!<br> <textarea name="message" cols="40" rows="5"></textarea>
+    <input type="hidden" name="_next" value="/thanks/"><br>
+    <input type="submit" value="Send Message">
+</form>
 <p><b>Some encouraging words from our wonderfully supportive mentors and patrons </b></p>
 <p>Thank you so much for an extremely pleasant experience! At-home services 
 with a warm and personal touch, low costs, high-quality products, smiling and 
