@@ -1,9 +1,12 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, intial-scale=1">
-  <meta description="{% if page.metaDesc %}{{ page.metaDesc }}{% else %}
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" 
+        content="{% if page.metaDesc %}{{ page.metaDesc }}{% else %}
                         {{ site.description }}{% endif %}">
+  <meta name="keywords" content="{% if page.keys %}{{ page.keys }}{% else %}
+                        {{ site.keys }}{% endif %}">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title
 		}}{% endif %}</title>
 
