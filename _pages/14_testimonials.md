@@ -3,7 +3,7 @@ layout: page
 tooltip: What Others Say
 permalink: /Testimonials/
 ---
-<p>Write something to encourage our service providers to share on this page</p>
+<p>Write something to encourage our service providers</p>
 <form action="https://formspree.io/mklauria@gmail.com"
       method="POST">
     Name <input type="text" name="name">
