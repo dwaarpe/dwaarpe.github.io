@@ -6,7 +6,7 @@ permalink: /Testimonials/
 <p>Write something to encourage our service providers</p>
 <form action="https://formspree.io/mklauria@gmail.com"
       method="POST">
-    Name <input type="text" name="name">
+    Name <input type="text" name="name"><br>
     Email <input type="text" name="email"><br>
     <textarea name="message" cols="50" rows="5"></textarea>
     <input type="hidden" name="_next" value="/Testimonials/">
