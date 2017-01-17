@@ -8,7 +8,7 @@ permalink: /Testimonials/
       method="POST">
     Name <input type="text" name="name">
     Email <input type="text" name="email"><br>
-    Write Us a Testimonial!<br> <textarea name="message" cols="50" rows="5"></textarea>
+    <textarea name="message" cols="50" rows="5"></textarea>
     <input type="hidden" name="_next" value="/Testimonials/">
     <input type="submit" value="Send">
 </form>
