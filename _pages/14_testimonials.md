@@ -6,11 +6,11 @@ permalink: /Testimonials/
 <p>Write something to encourage our service providers to share on this page</p>
 <form action="https://formspree.io/mklauria@gmail.com"
       method="POST">
-    Name<br> <input type="text" name="name"> <br>
-    Email<br> <input type="text" name="email"><br>
-    Write Us a Testimonial!<br> <textarea name="message" cols="40" rows="5"></textarea>
-    <input type="hidden" name="_next" value="/Testimonials/"><br>
-    <input type="submit" value="Send Message">
+    Name <input type="text" name="name">
+    Email <input type="text" name="email"><br>
+    Write Us a Testimonial!<br> <textarea name="message" cols="50" rows="5"></textarea>
+    <input type="hidden" name="_next" value="/Testimonials/">
+    <input type="submit" value="Send">
 </form>
 <p><b>Some encouraging words from our wonderfully supportive mentors and patrons </b></p>
 <p>Thank you so much for an extremely pleasant experience! At-home services 
