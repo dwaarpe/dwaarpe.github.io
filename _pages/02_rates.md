@@ -31,7 +31,7 @@ th {
    <tr>
       <td>Home Fruit</td>
       <td>500</td>
-      <td>Home Sourced Materials</td>
+      <td>Home Sourced</td>
    </tr>
    <tr>
       <td>Normal</td>
@@ -61,7 +61,7 @@ th {
    <tr>
       <td>Ayurved</td>
       <td>900</td>
-      <td>Natural Herbs and Oils</td>
+      <td>Herbs and Oils</td>
    </tr>
    <tr>
       <td>Diamond</td>
@@ -102,7 +102,7 @@ th {
       <td>Rica</td>
    </tr>
    <tr>
-      <td>Arms and Underarms</td>
+      <td>Arms + Underarms</td>
       <td>500</td>
       <td>Rica</td>
    </tr>
@@ -132,7 +132,7 @@ th {
       <td>Normal</td>
    </tr>
    <tr>
-      <td>Arms and Underarms</td>
+      <td>Arms + Underarms</td>
       <td>250</td>
       <td>Normal</td>
    </tr>

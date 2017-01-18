@@ -24,7 +24,7 @@ permalink: /The Team/
 <div class="clearfix"></div>
 <br> The team 
 <div class="responsive"> <div class="img">
-  <a target="_blank" href="/Divya/">
+  <a href="/Divya/">
     <img src="/assets/divya1.jpg" alt="Divya" width="300" height="300"></a>
   <div class="desc">Divya</div>
 </div> </div>
