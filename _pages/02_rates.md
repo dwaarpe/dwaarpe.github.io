@@ -243,6 +243,21 @@ th {
       <td></td>
    </tr>
    <tr>
+      <td>Face Bleach</td>
+      <td>250</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>Neck/Back Bleach</td>
+      <td>250</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>Arms + Half-legs Bleach</td>
+      <td>250</td>
+      <td></td>
+   </tr>
+   <tr>
       <td>Streaking</td>
       <td>250</td>
       <td>per Streak</td>
