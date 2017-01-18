@@ -99,32 +99,32 @@ th {
    <tr>
       <td>Arms</td>
       <td>400</td>
-      <td>Liposoluble</td>
+      <td>Rica</td>
    </tr>
    <tr>
       <td>Arms and Underarms</td>
       <td>500</td>
-      <td>Liposoluble</td>
+      <td>Rica</td>
    </tr>
    <tr>
       <td>Legs</td>
       <td>600</td>
-      <td>Liposoluble</td>
+      <td>Rica</td>
    </tr>
    <tr>
       <td>Half-legs</td>
       <td>300</td>
-      <td>Liposoluble</td>
+      <td>Rica</td>
    </tr>
    <tr>
       <td>Full Body</td>
       <td>2500</td>
-      <td>Liposoluble</td>
+      <td>Rica</td>
    </tr>
    <tr>
       <td>Full Body + Bikini</td>
       <td>3000</td>
-      <td>Liposoluble</td>
+      <td>Rica</td>
    </tr>
    <tr>
       <td>Arms</td>
@@ -165,12 +165,12 @@ th {
       <th>Material</th>
    </tr>
    <tr>
-      <td>Massage Full Body (1 hr)</td>
+      <td>Full Body (1 hr)</td>
       <td>600</td>
       <td>Coconut Oil</td>
    </tr>
    <tr>
-      <td>Full Body Massage (1 hr)</td>
+      <td>Full Body (1 hr)</td>
       <td>800</td>
       <td>Olive Oil</td>
    </tr>
@@ -180,7 +180,7 @@ th {
       <td></td>
    </tr>
    <tr>
-      <td>Massage FB (2 hrs)</td>
+      <td>Full Body (2 hrs)</td>
       <td>1200</td>
       <td>Coconut Oil</td>
    </tr>
@@ -190,7 +190,7 @@ th {
       <td></td>
    </tr>
    <tr>
-      <td>Full Body Massage (2 hrs)</td>
+      <td>Full Body (2 hrs)</td>
       <td>1500</td>	
       <td>Olive Oil</td>
    </tr>
@@ -205,24 +205,72 @@ th {
       <td></td>
    </tr>
    <tr>
-      <td>Head Massage</td>
+      <td>Head </td>
       <td>350</td>
       <td>Coconut Oil</td>
    </tr>
    <tr>
-      <td>Back Massage</td>
+      <td>Back </td>
       <td>350</td>
       <td>Coconut Oil</td>
    </tr>
    <tr>
-      <td>Legs Massage</td>
+      <td>Legs </td>
       <td>250</td>
       <td>Coconut Oil</td>
    </tr>
    <tr>
-      <td>Arms Massage</td>
+      <td>Arms </td>
       <td>250</td>
       <td>Coconut Oil</td>
+   </tr>
+</table>
+<table>
+   <caption>Other Services</caption>
+   <tr>
+      <th></th>
+      <th>Cost</th>
+      <th></th>
+   </tr>
+   <tr>
+      <td>Pedicure</td>
+      <td>350</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>Manicure</td>
+      <td>250</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>Streaking</td>
+      <td>250</td>
+      <td>per Streak</td>
+   </tr>
+   <tr>
+      <td>Color Touch-Up</td>
+      <td>650</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>Full Hair Color</td>
+      <td>2500</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>Hair Straightening</td>
+      <td>3500</td>	
+      <td>Based on Length</td>
+   </tr>
+   <tr>
+      <td>Knee Care</td>
+      <td>500</td>	
+      <td>per Session</td>
+   </tr>
+   <tr>
+      <td>Anti-lice Care</td>
+      <td>500</td>	
+      <td>per Session</td>
    </tr>
 </table>
 <div class="clearfix"></div>
