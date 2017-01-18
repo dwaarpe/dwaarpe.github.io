@@ -279,7 +279,7 @@ th {
    </tr>
    <tr>
       <td>Knee Care</td>
-      <td>500</td>	
+      <td>700</td>	
       <td>per Session</td>
    </tr>
    <tr>
