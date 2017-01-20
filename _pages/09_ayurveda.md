@@ -1,11 +1,11 @@
 ---
 layout: page
-metaDesc: Dwaarpe's at-home Ayurveda products-based services in Noida, Delhi, Gurgaon, Ghaziababd and Faridabad - facials, ubtans, hair care - the all-natural ingredients ensure safety and quality
-allthekeywords: Ayurvedic products - salon at home service. NCR region. All-natural products. Expert formulations. 
-permalink: /Ayurveda/
+metaDesc: Dwaarpe's Ayurveda ervices - Facial, Ubtan, Ubtan + Massage.
+allthekeywords: Ayurvedic services, Ayurveda products, salon at home service. NCR region. All-natural products. Expert formulations. 
+permalink: /Ayurveda Services/
 ---
 
-Our home-made mixtures, made from fresh and natural ingredients. No chemical are added, and no preservatives are used. No SLS, Parabens, EDTA or other known toxic chemicals are present in these ingredients.
+Ayurvedic products used for services at home - Ubtan, Facial, Massage. Knee Care, anti-lice, anti-acne. For the young and for the elderly. For all kinds of skins - dry, normal, oily. Using the pureset of natural herbs, fruits, nuts, oils, flowers, fruit peels. 
 <style>
 div.img {
     margin: 5px;
@@ -52,41 +52,4 @@ div.desc {
     clear: both;
 }
 </style>
-
-<div class="responsive">
-<div class="img">
-  <a target="_blank" href="">
-    <img src="/assets/IMG_1488.JPG" alt="Ubtan" width="300" height="200">
-  </a>
-  <div class="desc">Body Ubtan</div>
-</div>
-</div>
-
-<div class="responsive">
-<div class="img">
-  <a target="_blank" href="">
-    <img src="/assets/IMG_1489.JPG" alt="Ubtan" width="300" height="200">
-  </a>
-  <div class="desc">Body Ubtan</div>
-</div>
-</div>
-
-<div class="responsive">
-<div class="img">
-  <a target="_blank" href="">
-    <img src="/assets/IMG_1496.JPG" alt="Ubtan" width="300" height="200">
-  </a>
-  <div class="desc">Ubtan Ingredients</div>
-</div>
-</div>
-
-<div class="responsive">
-<div class="img">
-  <a target="_blank" href="">
-    <img src="/assets/IMG_1491.JPG" alt="Face Massage" width="300" height="200">
-  </a>
-  <div class="desc">Massage Cream</div>
-</div>
-</div>
-
 <div class="clearfix"></div>

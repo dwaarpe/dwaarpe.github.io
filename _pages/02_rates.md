@@ -3,7 +3,7 @@ layout: page
 tooltip: Rate Lists 
 metaDesc: Rates for DwaarPe's at-home services in Noida, Gurgaon, Delhi, Ghaziabad, Faridabad; facials, waxing, massage, pedicure, manicure; including our Ayurvedic products-based services
 allthekeywords: Salon at home. NCR region. Using branded products or home-made Ayurvedic products. 
-permalink: /Normal Services/
+permalink: /Beauty Services/
 ---
 
 Our range of beauty services, with love and warmth.
@@ -279,6 +279,11 @@ th {
    </tr>
    <tr>
       <td>Knee Care</td>
+      <td>700</td>	
+      <td>per Session</td>
+   </tr>
+   <tr>
+      <td>Anti-acne Care</td>
       <td>700</td>	
       <td>per Session</td>
    </tr>
