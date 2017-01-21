@@ -5,13 +5,13 @@ allthekeywords: Ayurvedic services, Ayurveda products, salon at home service. NC
 permalink: /Ayurveda Services/
 ---
 
-Ayurvedic products used for services at home - Ubtan, Facial, Massage. Knee Care, anti-lice, anti-acne. For the young and for the elderly. For all kinds of skins - dry, normal, oily. Using the pureset of natural herbs, fruits, nuts, oils, flowers, fruit peels. 
+Ayurvedic services at home - Ubtan, Facial, Massage. Knee Care, anti-lice, anti-acne. For the young and for the elderly. For all kinds of skins - dry, normal, oily. Using the pureset of natural herbs, fruits, nuts, oils, flowers, fruit peels. 
 
-Our Facials have four steps
-- cleansing
-- scrub/ubtan
-- massage 
-- pack
+Our Ayurvedic Facials have four steps
+   <li> cleansing</li>
+   <li> scrub/ubtan</li>
+   <li> massage</li> 
+   <li> pack</li>
 We use materials for each step appropriate to the skin of our patron. Dry skins need a different combination of ubtans and packs, and oily skin another.
 
 Our Massages use oils suffused with minute quantities of herbs, again as appropriate for various skin types. Our service providers are trained to provide a complete relaxing and rejuvenating experience. The oils used could be coconut, olive or sesame, as per request.
