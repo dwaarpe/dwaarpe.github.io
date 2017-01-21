@@ -13,5 +13,5 @@ permalink: /contactUs/
     <input type="hidden" name="_next" value="/thanks/">
     <input type="submit" value="Send">
 </form>
-<p>Payment Modes - Cash, PayTm, Bank Transfer, PayPal (from outside India)</p>
+<p>Payment Modes - Cash, BHIM, PayTm, Bank Transfer, PayPal (from outside India)</p>
 <p>The prices quoted include all expenses (material, travel), labour and service tax.</p>
