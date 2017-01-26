@@ -4,12 +4,17 @@ metaDesc: Home Salon services at affordable prices by trained servers. Facials, 
 permalink: /Our Story/
 ---
 
-We are a social entrepreneurship startup. We started some years back by funding the education of our maids and girls in our vicinity, getting a trained teacher to come and teach them for 2-3 hours daily. 
+We are a social entrepreneurship startup. We started some years back by funding the education of our maids and girls in our vicinity, getting a trained teacher to come and teach them for 2-3 hours daily. Some of the women/girls improved rapidly, others more slowly. But all of them became literate, and started dreaming of getting to class 10 and beyond.
 
-Millions of girls are stuck at being maids at homes, unable to break out from a life of drudgery. The only escape is literacy and/or acquiring new skills. We aim to provide girls new skills - starting with "Beauty Services". In addition, we help them deploy those skills, in real-life customer service at homes. Beauty Services, for women, and by women, at reasonable costs. 
-<p>Our Mission - Financial Inclusion and independence for the less privileged, specially women and girls.</p>
+But they were still working as maids at home. The path (through literacy and school graduation) is a long one. And millions of girls are stuck there, unable to break out from a life of drudgery. 
 
-Dwaarpe provides Facials, Waxing, Manicure, Pedicure, Massage, Bleaching, Streaking, Threading, Hair Coloring at home.
+The only other escape is acquiring new skills. We aim to provide girls new skills - starting with "Beauty Services". But that training is just the first step, and inadequate in itself. At the maximum, their employers would use that service and pay them a little extra for it - something we saw in the neighborhood. Well meaning, but inadequate. What we aimed at was more ambitious - help them deploy those new skills and earn substantially more.
+
+So was born DwaarPe - a platform for women and girls (to begin with) to deploy skills in a commercially meaningful environment - real-life customer service at homes. Beauty Services, for women, and by women, at reasonable costs. 
+
+<p>Our Mission - Financial inclusion and independence for the less privileged in India, specially women and girls.</p>
+
+DwaarPe provides Facials, Waxing, Manicure, Pedicure, Massage, Bleaching, Streaking, Threading, Hair Coloring at home.
 
 Our prices are significantly below the market (parlors). We provide service in the safety and privacy of your own home. With material that you can see for yourself, or material that you yourself have. At your convenience, your timing. No hassles of driving or parking.
 
