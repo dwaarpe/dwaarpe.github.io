@@ -23,10 +23,5 @@ Our home-made mixtures, made from fresh and natural ingredients. No chemical are
    <li><a href="/AshtamAushadhi/">Ashtam Aushadhi</a> - Acne Control - for acne-prone skin</li>
    <li><a href="/Neemrit/">Neemrit</a> - Anti-acne Anti-blemish</li>
 </ul>
-<div class="clearfix"></div>
-<div class="responsive">
-    <img src="/assets/priceList.png" alt="Price List" width="800" height="400">
-</div>
-
 
 <div class="clearfix"></div>
