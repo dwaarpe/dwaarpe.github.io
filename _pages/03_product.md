@@ -8,53 +8,25 @@ permalink: /Ayurveda Products/
 Our home-made mixtures, made from fresh and natural ingredients. No chemical are added, and no preservatives are used. No SLS, Parabens, EDTA or other known toxic chemicals are present in these ingredients.
 
 <ul style="list-style-type:none"><b>Face Ubtans </b>
-   <li>Saunf - for oily skins</li>
-   <li>Narangi - for dry/mature skins</li>
-   <li>Gulab - for all skins</li>
+   <li><a href="/Noor/">Noor</a> - Saunf Ubtan - for oily skins</li>
+   <li><a href="/Santosh/">Santosh</a> - Narangi Ubtan - for dry/mature skins</li>
+   <li><a href="/SantoshSummer/">Santosh Summer</a> - Narangi Ubtan - for oily skins</li>
+   <li><a href="/Roshnara/">Roshnara</a> - Rose Ubtan - for all skins</li>
 </ul>
 
 <ul style="list-style-type:none"><b>Body Ubtans </b>
-   <li>Flower Power - for all skin types</li>
+   <li><a href="/SnanaSaundarya/">Snana Saundarya</a> - Ayurvedic Ubtan - for all skin types</li>
 </ul>
 
-<ul style="list-style-type:none"><b>Packs</b>
-   <li>Ujjwal - Rose Anti-tan - for all skin types</li>
-   <li>Ashta-Aushadhi - Anti-acne - for acne-prone skin</li>
+<ul style="list-style-type:none"><b>Face Packs</b>
+   <li><a href="/Ujjwal/">Ujjwal</a> - Almond Rose Anti-tan - for all skin types</li>
+   <li><a href="/AshtamAushadhi/">Ashtam Aushadhi</a> - Acne Control - for acne-prone skin</li>
+   <li><a href="/Neemrit/">Neemrit</a> - Anti-acne Anti-blemish</li>
 </ul>
+<div class="clearfix"></div>
 <div class="responsive">
-<div class="img">
-  <a target="_blank" href="">
-    <img src="/assets/IMG_1488.JPG" alt="Ubtan" width="300" height="200">
-  </a>
-  <div class="desc">Body Ubtan</div>
-</div>
+    <img src="/assets/priceList.png" alt="Price List" width="800" height="400">
 </div>
 
-<div class="responsive">
-<div class="img">
-  <a target="_blank" href="">
-    <img src="/assets/IMG_1489.JPG" alt="Ubtan" width="300" height="200">
-  </a>
-  <div class="desc">Body Ubtan</div>
-</div>
-</div>
-
-<div class="responsive">
-<div class="img">
-  <a target="_blank" href="">
-    <img src="/assets/IMG_1496.JPG" alt="Ubtan" width="300" height="200">
-  </a>
-  <div class="desc">Ubtan Ingredients</div>
-</div>
-</div>
-
-<div class="responsive">
-<div class="img">
-  <a target="_blank" href="">
-    <img src="/assets/IMG_1491.JPG" alt="Face Massage" width="300" height="200">
-  </a>
-  <div class="desc">Massage Cream</div>
-</div>
-</div>
 
 <div class="clearfix"></div>
