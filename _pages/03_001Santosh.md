@@ -39,11 +39,11 @@ Mix half teaspoon (2gm) of the ubtan in warm milk (2 tsp), for a few minutes. Sp
 Orange Peel, Chironji Seeds, Cinnamon Powder, Clove Powder
 
 <b>Important Instructions for Correct Usage</b>
-Store in a cool dry place. For External Use only. Best before 18 months from date of manufacture
+Store in a cool dry place. For External Use only. Best before 18 months from date of manufacture.
 Natural ingredients may sometimes cause allergies. Please test by applying a small amount of the product on the inside of your elbow & leave on for thirty minutes. Discontinue use if there is irritation.
 
 <b>Other Information</b>
-Manufactured by : Grah Ayurveda
-Marketed by : DwaarPe, (Home services unit of DKOP Labs Pvt Ltd)
+Manufactured by : Grah Ayurveda.
+Marketed by : DwaarPe, (Home services unit of DKOP Labs Pvt Ltd),
 WP - 425, WAZIRPUR, ASHOK VIHAR, DELHI 110052, INDIA
 <div class="clearfix"></div>
