@@ -7,7 +7,7 @@ permalink: /Ayurveda Products/
 
 Our home-made mixtures, made from fresh and natural ingredients. No chemical are added, and no preservatives are used. No SLS, Parabens, EDTA or other known toxic chemicals are present in these ingredients.
 
-<div class="responsive2"> <div class="img2">
+<div class="responsive2"> <div class="img">
   <a href="/Noor/">
     <img src="/assets/noor.JPG" alt="Noor" width="400" height="400"></a>
   <div class="desc">Noor - Gentle Daily Use Ubtan for Oily Skin</div>

@@ -193,26 +193,12 @@ div.img {
     float: left;
     width: 180px;
 }
-div.img2 {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
-}
 
 div.img:hover {
     border: 1px solid #777;
 }
-div.img2:hover {
-    border: 1px solid #777;
-}
-
 
 div.img img {
-    width: 100%;
-    height: 150px;
-}
-div.img2 img {
     width: 100%;
     height: 150px;
 }
